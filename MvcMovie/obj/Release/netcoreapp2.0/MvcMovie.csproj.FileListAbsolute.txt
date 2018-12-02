@@ -1,0 +1,11 @@
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.deps.json
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.dll
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.pdb
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.dll
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.pdb
+/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.csprojAssemblyReference.cache
