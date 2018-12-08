@@ -13640,11 +13640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/Users/dayanacarranza/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/Users/dayanacarranza/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj",
       "packagesPath": "/Users/dayanacarranza/.nuget/packages/",
-      "outputPath": "/Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj",
+      "outputPath": "/Users/dayanacarranza/Documents/GitHub/MvcMovie/MvcMovie/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
