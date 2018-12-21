@@ -9,3 +9,9 @@
 /Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
 /Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
 /Users/dayanacarranza/Desktop/CIT365/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csprojAssemblyReference.cache
+C:\Users\MoonCake\Desktop\dayanabc\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojAssemblyReference.cache
+C:\Users\MoonCake\Desktop\dayanabc\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\MoonCake\Desktop\dayanabc\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\MoonCake\Desktop\dayanabc\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\MoonCake\Desktop\dayanabc\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\MoonCake\Desktop\dayanabc\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb

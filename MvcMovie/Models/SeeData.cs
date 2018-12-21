@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System.Linq;
-using MvcMovie.Data;
+
 
 
 namespace MvcMovie.Models

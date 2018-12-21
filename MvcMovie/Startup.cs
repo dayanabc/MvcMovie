@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MvcMovie.Data;
+
 using Microsoft.EntityFrameworkCore;
 
 
@@ -30,7 +30,7 @@ namespace MvcMovie
             //    options.MinimumSameSitePolicy = SameSiteMode.None;
             //});
 
-            services.AddDbContext<MvcMovieContext>(options =>
+            services.AddDbContext<Models.MvcMovieContext>(options =>
                   options.UseSqlite("Data Source=MvcMovie.db"));
 
 
